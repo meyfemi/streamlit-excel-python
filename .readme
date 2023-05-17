@@ -1,2 +1,5 @@
+I built the dashboard below using these three libraries Pandas, Plotly.express, and Streamlit,
+These libraries made it possible to quickly and easily import, manipulate, and visualize data from an #excel file.
+
 ##How to run
-sreamlit run mail.py
+sreamlit run main.py
